@@ -30,7 +30,7 @@
  Appendix:
 
  ![image](https://github.com/wandanialll/trafficViewTrial/assets/123443949/c4740ec5-4365-4aac-b7bb-8609d0ac4088)
- Raw image obtain from LLM website before upscalling and processing
+ Raw image obtained from LLM website before upscalling and processing
 
  ![image](https://github.com/wandanialll/trafficViewTrial/assets/123443949/ef930bd1-e26f-41de-85e1-125250468557)
  Image that has been processed and object has been identified
@@ -47,4 +47,10 @@
 | 2023-07-27 | 16:47:06 | 10              |
 | 2023-07-27 | 16:49:18 | 17              |
 | 2023-07-27 | 16:51:35 | 7               |
+
+Personal achievements:
+
+1. Learn about object detection models
+2. Ongoing model training data
+3. Integrating Mathematics and object detection
 
